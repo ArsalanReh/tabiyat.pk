@@ -144,3 +144,47 @@ border-radius: 7px;
     box-shadow: 5px 10px;
     margin-bottom: 3rem;
 }
+
+.a-img{
+    width: 6rem;
+    border: 2px solid #000;
+  border-radius: 25px;
+}
+.b-img{
+    width: 8rem;
+    height: 5rem;
+    border: 2px solid #fff;
+    border-radius: 25px;
+}
+h5{
+    color: rgb(91, 194, 194);
+}
+.shadow-hover:hover{
+    background-color: #aedada;
+    color:#fff!important;
+}
+.detail-center{
+    justify-content: center !important;
+    align-items: center !important;
+    margin-top: 3rem;
+}
+
+
+
+  
+.login-class{
+    background-color: #aedada;
+    padding-left: 20rem;
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+    height: 100vh;
+}
+.font-icon-size{
+    width: 5rem;
+    font-size: 2rem;
+    justify-items: center;
+    align-items: center;
+    justify-content: center;
+    margin-top: 1rem;
+    
+}
